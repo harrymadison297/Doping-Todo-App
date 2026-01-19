@@ -1,0 +1,263 @@
+{
+  "@@locale": "en",
+  "appTitle": "Doping",
+  "@appTitle": {
+    "description": "Application title"
+  },
+  "todoTab": "Todo",
+  "@todoTab": {
+    "description": "Todo tab label"
+  },
+  "pomodoroTab": "Pomodoro",
+  "@pomodoroTab": {
+    "description": "Pomodoro tab label"
+  },
+  "settingsTab": "Settings",
+  "@settingsTab": {
+    "description": "Settings tab label"
+  },
+  "todoList": "Todo List",
+  "@todoList": {
+    "description": "Todo list screen title"
+  },
+  "statistics": "Statistics",
+  "@statistics": {
+    "description": "Statistics section title"
+  },
+  "total": "Total",
+  "@total": {
+    "description": "Total tasks label"
+  },
+  "incomplete": "Incomplete",
+  "@incomplete": {
+    "description": "Incomplete tasks label"
+  },
+  "completed": "Completed",
+  "@completed": {
+    "description": "Completed tasks label"
+  },
+  "tasks": "tasks",
+  "@tasks": {
+    "description": "Tasks unit"
+  },
+  "noTodos": "No tasks yet",
+  "@noTodos": {
+    "description": "Empty todo list message"
+  },
+  "addFirstTask": "Add your first task",
+  "@addFirstTask": {
+    "description": "Add first task prompt"
+  },
+  "hideCompleted": "Hide completed",
+  "@hideCompleted": {
+    "description": "Hide completed tasks button"
+  },
+  "showCompleted": "Show completed",
+  "@showCompleted": {
+    "description": "Show completed tasks button"
+  },
+  "addTask": "Add Task",
+  "@addTask": {
+    "description": "Add task screen title"
+  },
+  "editTask": "Edit Task",
+  "@editTask": {
+    "description": "Edit task screen title"
+  },
+  "title": "Title",
+  "@title": {
+    "description": "Title field label"
+  },
+  "enterTitle": "Enter title",
+  "@enterTitle": {
+    "description": "Title field hint"
+  },
+  "description": "Description",
+  "@description": {
+    "description": "Description field label"
+  },
+  "enterDescription": "Enter description (optional)",
+  "@enterDescription": {
+    "description": "Description field hint"
+  },
+  "deadline": "Deadline",
+  "@deadline": {
+    "description": "Deadline field label"
+  },
+  "selectDateTime": "Select date & time",
+  "@selectDateTime": {
+    "description": "Select date time button"
+  },
+  "repeatInterval": "Repeat Interval",
+  "@repeatInterval": {
+    "description": "Repeat interval field label"
+  },
+  "none": "None",
+  "@none": {
+    "description": "No repeat option"
+  },
+  "oneMinute": "1 minute",
+  "@oneMinute": {
+    "description": "1 minute repeat option"
+  },
+  "fiveMinutes": "5 minutes",
+  "@fiveMinutes": {
+    "description": "5 minutes repeat option"
+  },
+  "tenMinutes": "10 minutes",
+  "@tenMinutes": {
+    "description": "10 minutes repeat option"
+  },
+  "thirtyMinutes": "30 minutes",
+  "@thirtyMinutes": {
+    "description": "30 minutes repeat option"
+  },
+  "oneHour": "1 hour",
+  "@oneHour": {
+    "description": "1 hour repeat option"
+  },
+  "oneDay": "1 day",
+  "@oneDay": {
+    "description": "1 day repeat option"
+  },
+  "oneWeek": "1 week",
+  "@oneWeek": {
+    "description": "1 week repeat option"
+  },
+  "save": "Save",
+  "@save": {
+    "description": "Save button"
+  },
+  "cancel": "Cancel",
+  "@cancel": {
+    "description": "Cancel button"
+  },
+  "delete": "Delete",
+  "@delete": {
+    "description": "Delete button"
+  },
+  "titleRequired": "Please enter a title",
+  "@titleRequired": {
+    "description": "Title required error"
+  },
+  "selectDeadline": "Please select a deadline",
+  "@selectDeadline": {
+    "description": "Deadline required error"
+  },
+  "errorSavingTask": "Error saving task",
+  "@errorSavingTask": {
+    "description": "Error saving task message"
+  },
+  "pomodoroTimer": "Pomodoro Timer",
+  "@pomodoroTimer": {
+    "description": "Pomodoro timer screen title"
+  },
+  "work": "Work",
+  "@work": {
+    "description": "Work phase label"
+  },
+  "breakPhase": "Break",
+  "@breakPhase": {
+    "description": "Break phase label"
+  },
+  "rest": "Rest",
+  "@rest": {
+    "description": "Rest phase label"
+  },
+  "sessions": "Sessions",
+  "@sessions": {
+    "description": "Sessions label"
+  },
+  "start": "Start",
+  "@start": {
+    "description": "Start button"
+  },
+  "pause": "Pause",
+  "@pause": {
+    "description": "Pause button"
+  },
+  "resume": "Resume",
+  "@resume": {
+    "description": "Resume button"
+  },
+  "reset": "Reset",
+  "@reset": {
+    "description": "Reset button"
+  },
+  "skip": "Skip",
+  "@skip": {
+    "description": "Skip button"
+  },
+  "settings": "Settings",
+  "@settings": {
+    "description": "Settings button/screen title"
+  },
+  "workTime": "Work Time",
+  "@workTime": {
+    "description": "Work time setting label"
+  },
+  "breakTime": "Break Time",
+  "@breakTime": {
+    "description": "Break time setting label"
+  },
+  "restTime": "Rest Time",
+  "@restTime": {
+    "description": "Rest time setting label"
+  },
+  "minutes": "minutes",
+  "@minutes": {
+    "description": "Minutes unit"
+  },
+  "workPhaseComplete": "Work phase complete!",
+  "@workPhaseComplete": {
+    "description": "Work phase complete notification"
+  },
+  "timeForBreak": "Time for a break",
+  "@timeForBreak": {
+    "description": "Break time notification"
+  },
+  "breakPhaseComplete": "Break complete!",
+  "@breakPhaseComplete": {
+    "description": "Break phase complete notification"
+  },
+  "timeToWork": "Time to work",
+  "@timeToWork": {
+    "description": "Work time notification"
+  },
+  "restPhaseComplete": "Rest complete!",
+  "@restPhaseComplete": {
+    "description": "Rest phase complete notification"
+  },
+  "markComplete": "✓ Complete",
+  "@markComplete": {
+    "description": "Mark complete notification action"
+  },
+  "language": "Language",
+  "@language": {
+    "description": "Language setting label"
+  },
+  "english": "English",
+  "@english": {
+    "description": "English language option"
+  },
+  "vietnamese": "Tiếng Việt",
+  "@vietnamese": {
+    "description": "Vietnamese language option"
+  },
+  "appSettings": "App Settings",
+  "@appSettings": {
+    "description": "App settings section title"
+  },
+  "general": "General",
+  "@general": {
+    "description": "General settings section"
+  },
+  "about": "About",
+  "@about": {
+    "description": "About section"
+  },
+  "version": "Version",
+  "@version": {
+    "description": "App version label"
+  }
+}

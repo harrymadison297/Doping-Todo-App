@@ -1,0 +1,32 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# Dart and Flutter files
+*.dart text
+*.yaml text
+*.yml text
+*.xml text
+*.gradle text
+*.properties text
+*.json text
+*.arb text
+*.md text
+
+# Scripts
+*.sh text eol=lf
+*.bash text eol=lf
+
+# Images
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.svg text
+
+# Archives
+*.zip binary
+*.tar binary
+*.gz binary
+*.jar binary
+*.aar binary

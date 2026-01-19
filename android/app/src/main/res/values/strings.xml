@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Doping</string>
+    <string name="widget_description">Thêm công việc mới nhanh chóng</string>
+    <string name="add_task">Thêm task</string>
+    <string name="pomodoro_widget_description">Điều khiển Pomodoro Timer</string>
+    <string name="start_pomodoro">Start</string>
+    <string name="pause_pomodoro">Pause</string>
+</resources>

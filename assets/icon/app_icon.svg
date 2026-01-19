@@ -1,0 +1,30 @@
+<svg width="1024" height="1024" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="1024" height="1024" fill="#FFD700" rx="180"/>
+  
+  <!-- Main Icon - Checkmark + Clock combination -->
+  <g transform="translate(512, 512)">
+    <!-- Clock Circle -->
+    <circle cx="0" cy="0" r="320" fill="white" opacity="0.95"/>
+    
+    <!-- Clock hands forming check shape -->
+    <!-- Hour hand (short) -->
+    <line x1="0" y1="0" x2="-80" y2="120" stroke="#FFD700" stroke-width="40" stroke-linecap="round"/>
+    
+    <!-- Minute hand (long check) -->
+    <line x1="-80" y1="120" x2="120" y2="-80" stroke="#FFD700" stroke-width="40" stroke-linecap="round"/>
+    
+    <!-- Center dot -->
+    <circle cx="0" cy="0" r="30" fill="#FFD700"/>
+    
+    <!-- Clock marks -->
+    <circle cx="0" cy="-240" r="20" fill="#FFD700" opacity="0.6"/>
+    <circle cx="240" cy="0" r="20" fill="#FFD700" opacity="0.6"/>
+    <circle cx="0" cy="240" r="20" fill="#FFD700" opacity="0.6"/>
+    <circle cx="-240" cy="0" r="20" fill="#FFD700" opacity="0.6"/>
+  </g>
+  
+  <!-- Pomodoro Timer indicator (small tomato) -->
+  <circle cx="820" cy="204" r="100" fill="#FF6B6B"/>
+  <ellipse cx="820" cy="170" rx="30" ry="40" fill="#4CAF50"/>
+</svg>
